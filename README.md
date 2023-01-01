@@ -5,6 +5,6 @@
 
 # Screenshots
 
-![Screenshot_1](/Screenshots/Screenshot_1.png?raw=true "Screenshot")
+![Screenshot_1](/Screenshots/SS_1.png?raw=true "Screenshot")
 
-![Screenshot_2](/Screenshots/Screenshot_2.png?raw=true "Screenshot")
+![Screenshot_2](/Screenshots/SS_2.png?raw=true "Screenshot")
